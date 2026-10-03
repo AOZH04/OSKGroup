@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 302 302" fill="none">
+  <clipPath id="d5cut"><rect x="22" y="22" width="258" height="258"/></clipPath>
+  <g clip-path="url(#d5cut)" stroke="#902B1F" stroke-width="8">
+    <circle cx="151" cy="151" r="145"/>
+    <circle cx="151" cy="151" r="108.75"/>
+    <circle cx="151" cy="151" r="72.5"/>
+    <circle cx="151" cy="151" r="36.25"/>
+  </g>
+</svg>
